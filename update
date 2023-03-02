@@ -1,0 +1,45 @@
+
+    <div class="container-fluid footer ">
+        <div class="container">
+            <div class="row gy-3">
+                <div class="col-sm-12 col-md-12 col-lg-2">
+                    <div class="footerCart">
+                        <div><img src="./images/logo-large.png" alt=""></div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-2">
+                    <div class="footerCart text-sm-center">
+                        <div> <a href="">CONTACT US</a> </div>
+                        <div> <a href="">TERMS & CONDITIONS</a> </div>
+                        <div> <a href="">PRIVACY POLICY</a> </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-2">
+                    <div class="footerCart">
+                        <div> <a href="">COPYRIGHT</a> </div>
+                        <div> <a href="">PRODUCT FACTS</a> </div>
+                        <div> <a href="">STORE LOCATOR</a> </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-2">
+                    <div class="footerCart">
+                        <div> <a href="">SERVE PEPSI</a> </div>
+                        <div> <a href="">ABOUT OUR ADS</a> </div>
+                        <div> <a href="">CAREERS</a> </div>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-12 col-lg-4">
+                    <div class="footerCart">
+                        <div> <button type="button" class="btn btn-primary">SUBSCRIBE TO NEWS</button> </div>
+                       <div class="icons"> 
+                        <div class="icon"><img src="/images/icon-facebook.svg" alt=""></div>
+                       <div class="icon"><img src="/images/icon-instagram.svg" alt=""></div>
+                       <div class="icon"><img src="/images/icon-twitter.svg" alt=""></div>
+                       <div class="icon"><img src="/images/icon-tiktok.svg" alt=""></div>
+                       <div class="icon"><img src="/images/icon-youtube.svg" alt=""></div></div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
