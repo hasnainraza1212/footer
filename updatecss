@@ -1,0 +1,299 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.section1 {
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.sec1-left {
+    width: 40%;
+    height: 100%;
+    text-align: center;
+}
+
+.sec1-left img {
+    width: 150%;
+}
+
+.sec1-right {
+    width: 60%;
+    height: 100%;
+}
+
+.main-cover-v {
+    width: 70%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.v1 {
+    width: 40%;
+    height: 100%;
+}
+
+.v1 img {
+    width: 100%;
+}
+
+.vsub1 {
+    color: #FFFFFF;
+    font-weight: 500;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
+
+.vsub1 span {
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.v2 {
+    width: 40%;
+    height: 100%;
+}
+
+.v2 img {
+    width: 100%;
+}
+
+.vsub2 {
+    color: #FFFFFF;
+    font-weight: 500;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 12px;
+}
+
+.vsub2 span {
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.main-heading {
+    text-align: center;
+    margin-top: 120px;
+
+}
+
+.main-heading img {
+    width: 60%;
+
+
+}
+
+.sub-heading {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.sub-heading img {
+    width: 50%;
+}
+
+.sec2 {
+    width: 100%;
+    height: 100%;
+    background: url(images/nitrobg.png);
+    display: flex;
+    justify-content: center;
+}
+
+.sec2-left {
+    width: 30%;
+
+
+}
+
+.sec2-left img {
+    width: 100%;
+    position: relative;
+}
+
+.improve {
+    width: 100px !important;
+    position: absolute;
+    top: 100px;
+    left: 500px;
+}
+
+.sec2-right {
+    width: 40%;
+    text-align: center;
+
+}
+
+.sec2-right img {
+    width: 80%;
+    margin-top: 30%;
+    margin-left: 10%;
+}
+
+.sec2-right h2 {
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.sec3 {
+    width: 100%;
+    height: 100%;
+    background-color: #265cc5;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.sec3-left {
+    width: 30px;
+    background: red;
+    display: flex;
+
+}
+
+.sec3-left .promo1 {
+    width: 100%;
+    background-color: green;
+}
+
+.sec3-left .promo2 {
+    width: 100%;
+    background-color: blue;
+}
+
+.sec3-right {
+    width: 60px;
+    background-color: red
+}
+
+.sec3-right img {
+    width: 600px;
+    height: 300px;
+}
+
+.sec4 {
+    width: 100%;
+    height: 100vh;
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec4-left {
+    width: 40%;
+    height: 100%;
+    background-color: green;
+    display: flex;
+    align-items: space-between;
+    flex-direction: column;
+}
+
+.sec4-l1 {
+    width: 100%;
+    height: 50%;
+    background-color: grey;
+    text-align: center;
+}
+
+.sec4-l1 img {
+    width: 70%;
+}
+
+.sec4-l2 {
+    width: 100%;
+    height: 30%;
+    background-color: greenyellow;
+}
+
+.sec4-l2 img {
+    width: 100%;
+
+}
+
+.sec4-right {
+    width: 60%;
+    height: 100%;
+    background: red;
+}
+
+.sec4-right img {
+    width: 100%;
+}
+
+
+.section1 {
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
+
+.headline {
+    width: 35%;
+}
+
+.abs {
+    position: absolute;
+    top: 70px;
+    left: 400px;
+    width: 200px;
+}
+
+.rel {
+    position: relative;
+}
+
+.sec2img {
+    width: 40%;
+}
+
+.sec2img img {
+    width: 100%;
+    height: 100%;
+}
+
+.footer {
+    background-color: #3466C3;
+    padding: 100px;
+}
+
+.footer div>a {
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+}
+
+[type=button]:not(:disabled),
+[type=reset]:not(:disabled),
+[type=submit]:not(:disabled),
+button:not(:disabled) {
+    background-color: transparent !important;
+    border: 2px solid white;
+    border-radius: 20px !important;
+    width: 100%;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px  0;
+}
+.icon{
+    width: 40px;
+}
+.icon img{
+    width: 100%;
+}
+.footerCart {
+    /* background-color: aliceblue; }
